@@ -2,7 +2,7 @@
 
 [![Profile](https://avatars.githubusercontent.com/u/180786854?v=4)](https://github.com/Jolepy)
 
-Welcome to the **Jolepy/Jolepy** repository!  
+Welcome to the **Jolepy** repository!  
 This repository contains configuration files for my GitHub profile.
 
 ## About
